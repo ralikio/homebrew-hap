@@ -2,8 +2,8 @@ class Hap < Formula
     desc "Kyma Environment Broker"
     homepage ""
     url "https://github.com/kyma-project/kyma-environment-broker/archive/refs/heads/features/antlr-vs-simple-parser.zip"
-    version "0.0.1"
-    sha256 "941b24b95c279ea5c9c749052377679a7aa684dcf5439912b16321910f5764f0"
+    version "0.0.2"
+    sha256 "0bf975cc2547d7a6af1b96e7a8fb49377b1da55af4d0ec013b9db0cac1fe59a8"
     license "Apache-2.0"
   
     depends_on "go" => :build
