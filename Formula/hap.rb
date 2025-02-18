@@ -1,9 +1,9 @@
 class Hap < Formula
     desc "Kyma Environment Broker"
     homepage ""
-    url "https://github.com/kyma-project/kyma-environment-broker/archive/refs/heads/features/hap-v0.0.11.zip"
-    version "0.0.11"
-    sha256 "97493d38a3b1bd17579eb00fb8d5b5b3a21ca139cedb10c87ef9d3d0213ee5f6"
+    url "https://github.com/kyma-project/kyma-environment-broker/archive/refs/heads/features/hap-v0.0.12.zip"
+    version "0.0.12"
+    sha256 "2397539c248ec934d390a79fa8cea5b447ffaa460b1243cc75be6faec856ff6e"
     license "Apache-2.0"
   
     depends_on "go" => :build
